@@ -1,0 +1,68 @@
+'''Stores questions from all the catagories
+First pool of questions 'Player Resume'
+    This section will feature a few stats from Baseball Reference and you will need to guess the player
+"question_set1":
+{Q: 22 yrs (12 STL, 10 LAA, 1 LAD) ROY, 3x MVP, 703 Hrs, All Time Leader in GDP
+A: Albert Pujols}
+
+{Q: 19 yrs (16 CHW, 2 TOR, 2 OAK) 2x MVP, 521 Hrs, .974 Career OPS
+A: 17 yrs STL, 2x CYA, MVP, 251 W, 3,117 SO, 2.91 ERA}
+
+{Q: 12 yrs LAD, 3x CYA, MVP, 165 W, 2,396, 2.76 ERA
+A: Sandy Koufax}
+
+Second pool of questions 'Stat Leader'
+{Q: This outfielder lead the league in Home Runs in 2000 with 50
+A: Sammy Sosa}
+
+{Q: This pitcher holds the all time single season record for lowest ERA at 1.12
+A: Bob Gibson}
+
+Third pool of questions 'OTD in History' - historic events such as milestone records, no hitters, perfect games, iconic moments, etc
+'''
+
+'''
+Player Resume
+'''
+22 yrs (12 STL, 10 LAA, LAD) ROY, 3x MVP, 703 Hrs, All Time Leader in GDP | Albert Pujols
+19 yrs (16 CHW, 2 TOR, 2 OAK) HOF, 2x MVP, 521 Hrs, .974 OPS | Frank Thomas
+12 yrs LAD, HOF, 3x CYA, MVP, 165 W, 2,396, 2.76 ERA | Sandy Koufax
+16 yrs (15 CHC, PHI) HOF, MVP, 282 Hrs, 2,386 H, HR Derby Champ | Ryne Sandberg
+19 yrs (12 MIN, 5 LAA, 2 DET) 9 GG, 353 Hrs, 2,452 H | Torii Hunter
+17 yrs (12 TOR, 4 NYM, FLA) 473 Hrs, 2,083 H, .929 OPS, | Carlos Delgado
+18 yrs (16 BRO, NYM, SFG) HOF, 407 Hrs, 2,116 H, .919 OPS | Duke Snider
+18 yrs (16 ATL, 3 PHI, COL) 2x MVP, 398 Hrs, 2,111 H | Dale Murphy
+19 yrs DET ROY, 5x All Star, 244 Hrs, 2,369 H, 75.1 WAR | Lou Whitaker
+17 yrs (10 STL, 7 NYM, CLE) MVP, 11x GG, 60.3 WAR, 2,182 H | Keith Hernandez 
+16 yrs BOS, HOF, MVP, 382 Hrs, 2,452 H, .298 Avg, | Jim Rice 
+
+'''
+Stat Leaders
+'''
+This outfielder lead the league in Home Runs in 2000 with 50 | Sammy Sosa
+This player hit the most Home Runs in the MLB in the 1990's | Mark McGwire (405)
+This player hit the most Home Runs in the MLB in the 1980's | Mike Schmidt (313)
+This player hit the most Home Runs in the MLB in the 1970's | Willie Stargell (296)
+This player hit the most Home Runs in the MLB in the 1960's | Harmon Killebrew (393)
+This player hit the most Home Runs in the MLB in the 2000's | Alex Rodriguez (435)
+This player hit the most Home Runs in the MLB in the 2010's | Nelson Cruz (346)
+This player struck out the most batters in the MLB in the 1960's | Bob Gibson
+This player struck out the most batters in the MLB in the 1970's | Nolan Ryan
+This player struck out the most batters in the MLB in the 1980's | Nolan Ryan
+This player struck out the most batters in the MLB in the 1990's | Randy Johnson
+This player struck out the most batters in the MLB in the 2000's | Randy Johnson
+This player struck out the most batters in the MLB in the 2010's | Max Scherzer
+This team won the most games in the 1960's | Orioles (911)
+This team won the most games in the 1970's | Reds (953)
+This team won the most games in the 1980's | Yankees (854)
+This team won the most games in the 1990's | Braves (925)
+This team won the most games in the 2000's | Yankees (965)
+This team won the most games in the 2010's | Yankees (921)
+This player is the all time leader in at bats | Pete Rose (14,053)
+This player is the all time leader in Runs scored | Rickey Henderson (2,295)
+This player is the all time leader in Triples | Sam Crawford (309)
+This player is the all time leader in Doubles | Tris Speaker (792)
+
+'''
+OTD in History
+'''
