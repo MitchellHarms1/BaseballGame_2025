@@ -9,7 +9,11 @@ def load_questions(filename="questions.txt"):
     with open(filename, "r") as file:
         for line in file:
             if "|" in line:
-                question, answer = line.strip().split(" | ", 1)
+                try: 
+                    (question, answer) = line.strip().split(" | ", 1)
+                except: 
+                    pass
+                
                 questions.append((question, answer))
     return questions
 

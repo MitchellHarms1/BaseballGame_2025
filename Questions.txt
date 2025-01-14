@@ -39,19 +39,37 @@ Player Resume
 '''
 Stat Leaders
 '''
-This outfielder lead the league in Home Runs in 2000 with 50 | Sammy Sosa
-This player hit the most Home Runs in the MLB in the 1990's | Mark McGwire (405)
-This player hit the most Home Runs in the MLB in the 1980's | Mike Schmidt (313)
-This player hit the most Home Runs in the MLB in the 1970's | Willie Stargell (296)
-This player hit the most Home Runs in the MLB in the 1960's | Harmon Killebrew (393)
-This player hit the most Home Runs in the MLB in the 2000's | Alex Rodriguez (435)
-This player hit the most Home Runs in the MLB in the 2010's | Nelson Cruz (346)
-This player struck out the most batters in the MLB in the 1960's | Bob Gibson
-This player struck out the most batters in the MLB in the 1970's | Nolan Ryan
-This player struck out the most batters in the MLB in the 1980's | Nolan Ryan
-This player struck out the most batters in the MLB in the 1990's | Randy Johnson
-This player struck out the most batters in the MLB in the 2000's | Randy Johnson
-This player struck out the most batters in the MLB in the 2010's | Max Scherzer
+
+This player hit the most Home Runs in the 1990's | Mark McGwire (405)
+This player hit the most Home Runs in the 1980's | Mike Schmidt (313)
+This player hit the most Home Runs in the 1970's | Willie Stargell (296)
+This player hit the most Home Runs in the 1960's | Harmon Killebrew (393)
+This player hit the most Home Runs in the 2000's | Alex Rodriguez (435)
+This player hit the most Home Runs in the 2010's | Nelson Cruz (346)
+This player had the highest batting average in the 2010's with at least 2000 PA | Miguel Cabrera (.317)
+This player had the highest batting average in the 2000's with at least 2000 PA | Albert Pujols (.334)
+This player had the highest batting average in the 1990's with at least 2000 PA | Tony Gwynn (.344)
+This player had the highest batting average in the 1980's with at least 2000 PA | Wade Boggs (.352)
+This player had the highest batting average in the 1970's with at least 2000 PA | Rod Carew (.343)
+This player had the highest batting average in the 1960's with at least 2000 PA | Roberto Clemente (.328)
+This player struck out the most batters in the 1960's | Bob Gibson
+This player struck out the most batters in the 1970's | Nolan Ryan
+This player struck out the most batters in the 1980's | Nolan Ryan
+This player struck out the most batters in the 1990's | Randy Johnson
+This player struck out the most batters in the 2000's | Randy Johnson
+This player struck out the most batters in the 2010's | Max Scherzer
+This player had the lowest Era in the 2010's with at least 100 games started | Clayton Kershaw (2.31)
+This player had the lowest Era in the 2000's with at least 100 games started | Pedro Martinez (3.01)
+This player had the lowest Era in the 1990's with at least 100 games started | Greg Maddux (2.54)
+This player had the lowest Era in the 1980's with at least 100 games started | Orel Hershiser (2.65)
+This player had the lowest Era in the 1970's with at least 100 games started | Jim Palmer (2.58)
+This player had the lowest Era in the 1960's with at least 100 games started | Sandy Koufax (2.36)
+This player had the most saves in the 2010's | Craig Kimbrel (346)
+This player had the most saves in the 2000's | Mariano Rivera (397)
+This player had the most saves in the 1990's | John Wetteland (295)
+This player had the most saves in the 1980's | Jeff Reardon (264)
+This player had the most saves in the 1979's | Rollie Fingers (204)
+This player had the most saves in the 1960's | Hoyt Wilhelm (153)
 This team won the most games in the 1960's | Orioles (911)
 This team won the most games in the 1970's | Reds (953)
 This team won the most games in the 1980's | Yankees (854)
@@ -62,7 +80,30 @@ This player is the all time leader in at bats | Pete Rose (14,053)
 This player is the all time leader in Runs scored | Rickey Henderson (2,295)
 This player is the all time leader in Triples | Sam Crawford (309)
 This player is the all time leader in Doubles | Tris Speaker (792)
+This player is the all time leader in Home runs | Barry Bonds (762)
+This player is the all time leader in Hits | Pete Rose (4,256)
+This player is the all time leader in walks | Barry Bonds (2,558)
+This player is the all time leader in OPS | Babe Ruth (1.164)
+This hitter is the all time leader in WAR | Babe Ruth (182.6)
+This pitcher is the all time leader in WAR | Walter Johnson (166.9)
+This player is the all time leader in MVP awards | Barry Bonds (7)
+This player is the all time leader in Gold Glove awards for a pitcher | Greg Maddux (18)
+This player is the all time leader in Gold Glove awards for a catcher | Ivan Rodriguez (13)
+This player is the all time leader in Gold Glove awards for a first baseman | Keith Hernandez (11)
+This player is the all time leader in Gold Glove awards for a second baseman | Roberto Alomar (10)
+This player is the all time leader in Gold Glove awards for a third baseman | Brooks Robinson (16)
+This player is the all time leader in Gold Glove awards for a shirt stop | Ozzie Smith (13)
+This player is the all time leader in Gold Glove awards for a left feilder | Alex Gordon (8)
+This player is the all time leader in Gold Glove awards for a center feilder | Willie Mays (11)
+This player is the all time leader in Gold Glove awards for a right feilder | Roberto Clemente (12)
+This player is the all time leader in wins | Cy Young (511)
+This player is the all time leader in ERA | Ed Walsh (1.82)
+This player is the all time leader in strike outs | Nolan Ryan (5,714)
+This player is the all time leader in saves | Mariano Rivera (652)
+This player is the all time leader in innings pitched | Cy Young (7,356)
+This player is the all time leader in Cy Young awards | Roger Clemens (7)
 
 '''
 OTD in History
 '''
+
