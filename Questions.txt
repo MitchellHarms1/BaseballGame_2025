@@ -39,7 +39,6 @@ Player Resume
 '''
 Stat Leaders
 '''
-
 This player hit the most Home Runs in the 1990's | Mark McGwire (405)
 This player hit the most Home Runs in the 1980's | Mike Schmidt (313)
 This player hit the most Home Runs in the 1970's | Willie Stargell (296)
@@ -106,4 +105,11 @@ This player is the all time leader in Cy Young awards | Roger Clemens (7)
 '''
 OTD in History
 '''
+On 11/19/1979, this player became the first person to sign a $1M contract | Nolan Ryan
+On 8/29/1977, this player broke Ty Cobbs stolen base record | Lou Brock
+On 9/23/1988, this player recorded the first 40/40 season in MLB history | Jose Cansceco
+On 79/17/1930, this player recorded his 171st RBI breaking the single season record | Hack Wilson
+On 9/20/2013, this player broke Lou Gehrig's grand slam | Alex Rodriguez
+On 8/22/2007, this team broke the record for most runs scored in a game with 30 | Texas Rangers
+
 
