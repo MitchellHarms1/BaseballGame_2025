@@ -2,7 +2,7 @@
 
 
 '''
-Player Resume
+Player Career Resume
 '''
 (2001-2022) ROY, 3x MVP, 703 HR, 3,384 H, 101.4 WAR | Albert Pujols
 (1990-2008) HOF, 2x MVP, 521 HR, .974 OPS, 73.8 WAR | Frank Thomas
@@ -25,8 +25,26 @@ Player Resume
 (1962-1982) HOF 7x All Star, MVP, 475 HR, .889 OPS, 57.6 WAR | Willie Stargell
 (1983-1999) ROY, 8x All Star, 335 HR, HR Derby Champ, 42.1 WAR | Darryl Strawberry
 (1969-1986) 6x All Star, CYA, MVP, 209 W, 2,175 K, 44.9 WAR | Vida Blue
+(1999-2013) 6x All Star, 366 HR, .943 OPS, 51.9 WAR | Lance Berkman
+(1998-2017) ROY, 9x All Star, 2,725 H, 435 HR, 701.1 WAR | Carlos Beltran
+(1985-2001) ROY, MVP, 462 HR, .867 OPS, 42.5 WAR | Jose Canseco
+(1979-1993, 1998) 7x All Star, 176 W, 2,895 IP, 56.5 WAR | Dave Stieb
+(1974-1990) ROY, MVP, 9x All Star, 306 HR, 50.2 WAR | Fred Lynn
+(1959-1980) HOF, ROY, MVP, 521 HR, .889 OPS 64.4 WAR | Willie McCovey
+(1926-1947) HOF, 11x All Star, 511 MVP, 2,876 H, 110.9 WAR | Mel Ott
+'''
 
 '''
+Single Season Stat lines
+'''
+(2002) MVP-3, 209 H, 39 HR, 41 SB, .880 OPS, 4.9 WAR | Alfonso Soriano
+(1986) CYA-1, 2.22 ERA, 18 W, 306 K, 8.4 WAR | Mike Scott
+(1998) CYA-3, 2.38 EAR, 18 W, 257 K, 8.6 WAR | Kevin Brown
+(1996) MVP-3, 211 H, 40 HR, .344 Avg, 1.047 OPS 7.9 WAR | Ellis Burks
+(1985) ROY-1, 170 H, 110 SB, .267 Avg, 2.4 WAR | Vince Coleman
+(1990) CYA-1, 2.95 ERA, 27 W, 127 K, 2.9 WAR | Bob Welch
+'''
+
 Stat Leaders
 '''
 This player hit the most Home Runs in the 1990's | Mark McGwire (405)
@@ -98,6 +116,7 @@ This player is the all time leader in saves | Mariano Rivera (652)
 This player is the all time leader in innings pitched | Cy Young (7,356)
 This player is the all time leader in Cy Young awards | Roger Clemens (7)
 This player is the all time leader in ground into double plays | Albert Pujols (426)
+
 '''
 OTD in History
 '''
