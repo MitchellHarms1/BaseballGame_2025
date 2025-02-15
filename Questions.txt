@@ -4,19 +4,27 @@
 '''
 Player Resume
 '''
-22 yrs (12 STL, 10 LAA, LAD) ROY, 3x MVP, 703 Hrs, All Time Leader in GDP | Albert Pujols
-19 yrs (16 CHW, 2 TOR, 2 OAK) HOF, 2x MVP, 521 Hrs, .974 OPS | Frank Thomas
-12 yrs LAD, HOF, 3x CYA, MVP, 165 W, 2,396, 2.76 ERA | Sandy Koufax
-16 yrs (15 CHC, PHI) HOF, MVP, 282 Hrs, 2,386 H, HR Derby Champ | Ryne Sandberg
-19 yrs (12 MIN, 5 LAA, 2 DET) 9 GG, 353 Hrs, 2,452 H | Torii Hunter
-17 yrs (12 TOR, 4 NYM, FLA) 473 Hrs, 2,083 H, .929 OPS, | Carlos Delgado
-18 yrs (16 BRO, NYM, SFG) HOF, 407 Hrs, 2,116 H, .919 OPS | Duke Snider
-18 yrs (1976-1993) 2x MVP, 7x All Star 398 Hrs, 2,111 H | Dale Murphy
-19 yrs (1977-1995) ROY, 5x All Star, 244 Hrs, 2,369 H, 75.1 WAR | Lou Whitaker
-17 yrs (1974-1990) MVP, 11x GG, 60.3 WAR, 2,182 H | Keith Hernandez 
-16 yrs (1974-1989), HOF, MVP, 382 Hrs, 2,452 H, .298 Avg, | Jim Rice 
-15 yrs (1995-2009) 2x All Star, .902 OPS, 287 HR, 51.1 WAR | Brian Giles
-22 yrs (1963-1984), 2x MVP, 10x All Star, 100.g WAR, .271 Avg, .392 OBP | Joe Morgan
+(2001-2022) ROY, 3x MVP, 703 HR, 3,384 H, 101.4 WAR | Albert Pujols
+(1990-2008) HOF, 2x MVP, 521 HR, .974 OPS, 73.8 WAR | Frank Thomas
+(1955-1966, HOF, 3x CYA, MVP, 165 W, 2,396 k, 2.76 ERA, 48.9 WAR | Sandy Koufax
+(1981-1997) HOF, MVP, 282 HR, 2,386 H, HR Derby Champ, 67.9 WAR| Ryne Sandberg
+(1997-2015) 5x All Star, 353 HR, 2,452 H, 9x GG, 50.7 WAR | Torii Hunter
+(1993-2009) 2x All Star, 473 HR, .929 OPS, 44.4 WAR | Carlos Delgado
+(1947-1964) HOF, 8x All Star, 407 HR, .919 OPS, 65.9 WAR | Duke Snider
+(1976-1993) 2x MVP, 7x All Star 398 HR, 46.5 WAR | Dale Murphy
+(1977-1995) ROY, 5x All Star, 244 HR, 2,369 H, 75.1 WAR | Lou Whitaker
+(1974-1990) MVP, 5x All Star, 2,182 H, 11x GG, 60.3 WAR,  | Keith Hernandez 
+(1974-1989) HOF, MVP, 382 Hrs, 2,452 H, 47.7 WAR | Jim Rice 
+(1995-2009) 2x All Star, 287 HR, .902 OPS, 51.1 WAR | Brian Giles
+(1963-1984) HOF, 2x MVP, 10x All Star, .392 OBP, 100  WAR | Joe Morgan
+(1989-2005) 2x All Star, 2,234 H, .295 Avg, 58.6 WAR | John Olerud
+(1988-2009) 9x All Star, 509 HR, 2,689 H, 60.5 WAR | Gary Sheffield
+(1996-2011) HOF 9x All Star, MVP, .318 Avg, 449 HR, 59.6 WAR | Vlad Guerrero Sr.
+(1989-2005) HOF 5x All Star, MVP, .313 Avg, .956 OPS, 72.7 WAR | Larry Walker
+(1925-1945) HOF 9x All Star, 3x MVP, 534 HR, 1.038 OPS, 92.2 WAR | Jimmie Foxx
+(1962-1982) HOF 7x All Star, MVP, 475 HR, .889 OPS, 57.6 WAR | Willie Stargell
+(1983-1999) ROY, 8x All Star, 335 HR, HR Derby Champ, 42.1 WAR | Darryl Strawberry
+(1969-1986) 6x All Star, CYA, MVP, 209 W, 2,175 K, 44.9 WAR | Vida Blue
 
 '''
 Stat Leaders
@@ -89,7 +97,7 @@ This player is the all time leader in strike outs | Nolan Ryan (5,714)
 This player is the all time leader in saves | Mariano Rivera (652)
 This player is the all time leader in innings pitched | Cy Young (7,356)
 This player is the all time leader in Cy Young awards | Roger Clemens (7)
-
+This player is the all time leader in ground into double plays | Albert Pujols (426)
 '''
 OTD in History
 '''
