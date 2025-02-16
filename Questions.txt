@@ -51,7 +51,9 @@ Single Season Stat lines
 (1978) MVP-1, 30 HR, .334 Avg, .979 OPS, 7 WAR | Dave Parker
 (2018) CYA-1, 1.70 ERA, 10 W, 269 K, 9.5 WAR | Jacob deGrom
 (2007) MVP-2, 28 HR, 216 H, .363 Avg, 1.029 OPS, 7.3 WAR | Magglio Ordonez
-(1995) MVP-2 50 HR, 126 RBI, .317 Avg, 1.091 OPS, 7.0 WAR | Albert Belle
+(1995) MVP-2, 50 HR, 126 RBI, .317 Avg, 1.091 OPS, 7.0 WAR | Albert Belle
+(1945) MVP-1, 1.81 ERA, 25 W, 212 K, 11.3 WAR | Hal Newhouser
+
 '''
 
 Stat Leaders
