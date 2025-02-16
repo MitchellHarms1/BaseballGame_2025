@@ -32,6 +32,9 @@ Player Career Resume
 (1974-1990) ROY, MVP, 9x All Star, 306 HR, 50.2 WAR | Fred Lynn
 (1959-1980) HOF, ROY, MVP, 521 HR, .889 OPS 64.4 WAR | Willie McCovey
 (1926-1947) HOF, 11x All Star, 511 MVP, 2,876 H, 110.9 WAR | Mel Ott
+(1991-2011) HOF, 14x All Star, MVP, 14x GG, 2,844 H, 68.7 WAR | Ivan Rodriguez
+(1982-1999) HOF, 12x All Star, 3,010 H, .328 Avg, 91.4 WAR | Wade Boggs
+
 '''
 
 '''
@@ -43,6 +46,12 @@ Single Season Stat lines
 (1996) MVP-3, 211 H, 40 HR, .344 Avg, 1.047 OPS 7.9 WAR | Ellis Burks
 (1985) ROY-1, 170 H, 110 SB, .267 Avg, 2.4 WAR | Vince Coleman
 (1990) CYA-1, 2.95 ERA, 27 W, 127 K, 2.9 WAR | Bob Welch
+(2005) CYA-3, 2.87, 16 W, 238 K, 7.2 WAR | Johan Santana
+(1989) MVP-1, 47 HR, 125 RBI, 1.023 OPS, 6.9 WAR | Kevin Mitchell
+(1978) MVP-1, 30 HR, .334 Avg, .979 OPS, 7 WAR | Dave Parker
+(2018) CYA-1, 1.70 ERA, 10 W, 269 K, 9.5 WAR | Jacob deGrom
+(2007) MVP-2, 28 HR, 216 H, .363 Avg, 1.029 OPS, 7.3 WAR | Magglio Ordonez
+(1995) MVP-2 50 HR, 126 RBI, .317 Avg, 1.091 OPS, 7.0 WAR | Albert Belle
 '''
 
 Stat Leaders
