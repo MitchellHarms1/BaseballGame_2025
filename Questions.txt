@@ -38,6 +38,9 @@ Player Career Resume
 (1955-1972) HOF, MVP, 15x All Star, 3,000 H, .317 Avg, 94.9 WAR | Roberto Clemente
 (1982-1995) MVP, 6x All Star, 9x GG, 2,153 H, .307 Avg, 42.4 WAR | Don Mattingly
 (1976-1996) HOF, ROY, MVP, 8x All Star, 8x GG 438 HR, 64.9 WAR | Andre Dawson
+(1915-1937) HOF, 2x MVP, 2930 H, .358 Avg, 1.010 OPS, 127 WAR | Rogers Hornsby
+(1896-1916) HOF, 3,243 H, .338 Avg, 657 2B, 106.9 WAR | Nap Lajoie
+
 '''
 
 '''
@@ -63,6 +66,9 @@ Single Season Stat lines
 (2005) MVP-3, 46 HR, .335 Avg, 1.080 OPS, 7.7 WAR | Derek Lee
 (2004) MVP-2, 48 HR, .334 Avg, 1.017 OPS, 9.6 WAR | Adrian Beltre
 (2003) CYA-3, 2.43 ERA, 18 W, 245 K, 7.4 WAR | Mark Prior
+(2000) MVP-5, 42 HR, .372 Avg, 1.162 OPS, 8.9 WA| Todd Helton
+(2000) CYA-1, 1.74 ERA, 18 W, 284 K, 11.7 WAR | Pedro Martinez
+(1987) ROY-1, 49 HR, 118 RBI, .987 OPS, 5.1 WAR | Mark McGwire
 
 '''
 
