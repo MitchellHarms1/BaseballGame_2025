@@ -36,8 +36,8 @@ Player Career Resume
 (1982-1999) HOF, 12x All Star, 3,010 H, .328 Avg, 91.4 WAR | Wade Boggs
 (1961-1983) HOF, MVP, 18x All Star, 3,419 H, 452 HR, 96.5 WAR | Carl Yastrzemski
 (1955-1972) HOF, MVP, 15x All Star, 3,000 H, .317 Avg, 94.9 WAR | Roberto Clemente
-
-
+(1982-1995) MVP, 6x All Star, 9x GG, 2,153 H, .307 Avg, 42.4 WAR | Don Mattingly
+(1976-1996) HOF, ROY, MVP, 8x All Star, 8x GG 438 HR, 64.9 WAR | Andre Dawson
 '''
 
 '''
@@ -58,6 +58,11 @@ Single Season Stat lines
 (1945) MVP-1, 1.81 ERA, 25 W, 212 K, 11.3 WAR | Hal Newhouser
 (1956) MVP-1, 52 HR, 130 RBI, .353 Avg, Triple Crown, 11.2 WAR | Mickey Mantle
 (1987) MVP-2, 28 HR, .343 Avg, .953 OPS, 8.2 WAR | Alan Trammell
+(1984) MVP-3, 2.64 ERA, 44 SV, 3.3 WAR | Dan Quisenberry
+(2015) CYA-2, 1.66 ERA, 19 W, 200 K, 8.9 WAR | Zack Greinke
+(2005) MVP-3, 46 HR, .335 Avg, 1.080 OPS, 7.7 WAR | Derek Lee
+(2004) MVP-2, 48 HR, .334 Avg, 1.017 OPS, 9.6 WAR | Adrian Beltre
+(2003) CYA-3, 2.43 ERA, 18 W, 245 K, 7.4 WAR | Mark Prior
 
 '''
 
