@@ -47,44 +47,46 @@ Player Career Resume
 (1965-1988) HOF, 4x CYA, 10x All Star, 329 W, 4,136 K, 84.1 WAR | Steve Carlton
 (1967-1986) HOF, ROY, 3x CYA, 12x All Star 311 W, 3,640 K, 106 WAR | Tom Seaver
 (1952-1968) HOF, 12x All Star, 512 HR, .885 OPS, 95.9 WAR | Eddie Mathews
+(1986-2005) 4x All Star, 569 HR, 3,020 H, .885 OPS, 71.9 WAR | Rafael Palmeiro
 
 '''
 
 '''
 Single Season Stat lines
 '''
-(2002) MVP-3, 209 H, 39 HR, 41 SB, 4.9 WAR | Alfonso Soriano
-(1986) CYA-1, 2.22 ERA, 18 W, 306 K, 8.4 WAR | Mike Scott
+(2002-NYY) MVP-3, 209 H, 39 HR, 41 SB, 4.9 WAR | Alfonso Soriano
+(1986-HOU) CYA-1, 2.22 ERA, 18 W, 306 K, 8.4 WAR | Mike Scott
 (1998) CYA-3, 2.38 EAR, 18 W, 257 K, 8.6 WAR | Kevin Brown
-(1996) MVP-3, 40 HR, .344 Avg, 1.047 OPS, 7.9 WAR | Ellis Burks
-(1985) ROY-1, 170 H, 110 SB, .267 Avg, 2.4 WAR | Vince Coleman
-(1990) CYA-1, 2.95 ERA, 27 W, 127 K, 2.9 WAR | Bob Welch
-(2005) CYA-3, 2.87, 16 W, 238 K, 7.2 WAR | Johan Santana
-(1989) MVP-1, 47 HR, 125 RBI, 1.023 OPS, 6.9 WAR | Kevin Mitchell
+(1996-COL) MVP-3, 40 HR, .344 Avg, 1.047 OPS, 7.9 WAR | Ellis Burks
+(1985-STL) ROY-1, 170 H, 110 SB, .267 Avg, 2.4 WAR | Vince Coleman
+(1990-OAK) CYA-1, 2.95 ERA, 27 W, 127 K, 2.9 WAR | Bob Welch
+(2005-MIN) CYA-3, 2.87, 16 W, 238 K, 7.2 WAR | Johan Santana
+(1989-SFG) MVP-1, 47 HR, 125 RBI, 1.023 OPS, 6.9 WAR | Kevin Mitchell
 (1978) MVP-1, 30 HR, .334 Avg, .979 OPS, 7 WAR | Dave Parker
-(2018) CYA-1, 1.70 ERA, 10 W, 269 K, 9.5 WAR | Jacob deGrom
-(2007) MVP-2, 216 H, .363 Avg, 1.029 OPS, 7.3 WAR | Magglio Ordonez
+(2018-NYM) CYA-1, 1.70 ERA, 10 W, 269 K, 9.5 WAR | Jacob deGrom
+(2007-DET) MVP-2, 216 H, .363 Avg, 1.029 OPS, 7.3 WAR | Magglio Ordonez
 (1995) MVP-2, 50 HR, .317 Avg, 1.091 OPS, 7.0 WAR | Albert Belle
-(1945) MVP-1, 1.81 ERA, 25 W, 212 K, 11.3 WAR | Hal Newhouser
-(1956) MVP-1, 52 HR, 130 RBI, .353 Avg, Triple Crown, 11.2 WAR | Mickey Mantle
-(1987) MVP-2, 28 HR, .343 Avg, .953 OPS, 8.2 WAR | Alan Trammell
-(1984) MVP-3, 2.64 ERA, 44 SV, 3.3 WAR | Dan Quisenberry
-(2015) CYA-2, 1.66 ERA, 19 W, 200 K, 8.9 WAR | Zack Greinke
-(2005) MVP-3, 46 HR, .335 Avg, 1.080 OPS, 7.7 WAR | Derek Lee
-(2004) MVP-2, 48 HR, .334 Avg, 1.017 OPS, 9.6 WAR | Adrian Beltre
-(2003) CYA-3, 2.43 ERA, 18 W, 245 K, 7.4 WAR | Mark Prior
-(2000) MVP-5, 42 HR, .372 Avg, 1.162 OPS, 8.9 WA| Todd Helton
-(2000) CYA-1, 1.74 ERA, 18 W, 284 K, 11.7 WAR | Pedro Martinez
-(1987) ROY-1, 49 HR, 118 RBI, .987 OPS, 5.1 WAR | Mark McGwire
-(1967) MVP-6, 31 HR, .300 Avg, .906 OPS, 9.8 WAR | Ron Santo
-(2016) MVP-2, 31 HR, 214 H, .318 Avg, 9.5 WAR | Mookie Betts
-(1997) MVP-4, 22 HR, 146 R, .309 Avg, .916 OPS, 9.4 WAR | Craig Biggio
-(1996) MVP-4, 49 HR, 140 RBI, .303 Avg, 1.020 OPS, 9.7 WAR | Ken Griffey Jr
-(1969) MVP-5, 47 HR, 118 RBI, 1.018 OPS, 9.2 WAR | Reggie Jackson
-(2007) MVP-1, 30 HR, 41 SB, 20 3B, 212 H, 6.1 WAR | Jimmy Rollins
-(1970) MVP-3, 40 HR, .317 Avg, .990 OPS, 7.2 WAR | Tony Perez
-(1968) MVP-1, 1.12 ERA, 22 W, 268 K, 11.2 WAR | Bob Gibson
+(1945-DET) MVP-1, 1.81 ERA, 25 W, 212 K, 11.3 WAR | Hal Newhouser
+(1956-NYY) MVP-1, 52 HR, 130 RBI, .353 Avg, Triple Crown, 11.2 WAR | Mickey Mantle
+(1987-DET) MVP-2, 28 HR, .343 Avg, .953 OPS, 8.2 WAR | Alan Trammell
+(1984-KCR) MVP-3, 2.64 ERA, 44 SV, 3.3 WAR | Dan Quisenberry
+(2015-LAD) CYA-2, 1.66 ERA, 19 W, 200 K, 8.9 WAR | Zack Greinke
+(2005_CHC) MVP-3, 46 HR, .335 Avg, 1.080 OPS, 7.7 WAR | Derek Lee
+(2004-LAD) MVP-2, 48 HR, .334 Avg, 1.017 OPS, 9.6 WAR | Adrian Beltre
+(2003-CHC) CYA-3, 2.43 ERA, 18 W, 245 K, 7.4 WAR | Mark Prior
+(2000-COL) MVP-5, 42 HR, .372 Avg, 1.162 OPS, 8.9 WA| Todd Helton
+(2000-BOS) CYA-1, 1.74 ERA, 18 W, 284 K, 11.7 WAR | Pedro Martinez
+(1987-OAK) ROY-1, 49 HR, 118 RBI, .987 OPS, 5.1 WAR | Mark McGwire
+(1967-CHC) MVP-6, 31 HR, .300 Avg, .906 OPS, 9.8 WAR | Ron Santo
+(2016-BOS) MVP-2, 31 HR, 214 H, .318 Avg, 9.5 WAR | Mookie Betts
+(1997-HOU) MVP-4, 22 HR, 146 R, .309 Avg, .916 OPS, 9.4 WAR | Craig Biggio
+(1996-SEA) MVP-4, 49 HR, 140 RBI, .303 Avg, 1.020 OPS, 9.7 WAR | Ken Griffey Jr
+(1969-OAK) MVP-5, 47 HR, 118 RBI, 1.018 OPS, 9.2 WAR | Reggie Jackson
+(2007-PHI) MVP-1, 30 HR, 41 SB, 20 3B, 212 H, 6.1 WAR | Jimmy Rollins
+(1970-CIN) MVP-3, 40 HR, .317 Avg, .990 OPS, 7.2 WAR | Tony Perez
+(1968-STL) MVP-1, 1.12 ERA, 22 W, 268 K, 11.2 WAR | Bob Gibson
 (1908) 1.43 ERA, 37 W, 259 K, 11.8 WAR | Christy Mathewson
+(1993-TEX) MVP-4, 46 HR, .310 Avg, 1.000 OPS, 6.5 WAR | Juan Gonzalez
 '''
 
 Stat Leaders
@@ -158,19 +160,21 @@ This player is the all time leader in saves | Mariano Rivera (652)
 This player is the all time leader in innings pitched | Cy Young (7,356)
 This player is the all time leader in Cy Young awards | Roger Clemens (7)
 This player is the all time leader in ground into double plays | Albert Pujols (426)
-
 '''
 OTD in History/accomplishments
 '''
 On 11/19/1979, this player became the first person to sign a $1M contract | Nolan Ryan
 On 8/29/1977, this player broke Ty Cobbs stolen base record | Lou Brock
 On 9/23/1988, this player recorded the first 40/40 season in MLB history | Jose Cansceco
-On 79/17/1930, this player recorded his 171st RBI breaking the single season record | Hack Wilson
 On 9/20/2013, this player broke Lou Gehrig's grand slam | Alex Rodriguez
 On 8/22/2007, this team broke the record for most runs scored in a game with 30 | Texas Rangers
 On 8/15/2012, this player became the third pitcher to throw a perfect game of the season | Felix Hernandez
 On 9/13/2008, this pitcher broke Bobby Thigpen's record for most saves in a season | Fransisco Rodriguez
 On 9/19/2008, this hitter broke the single season strike out record | Mark Reynolds
 On 11/22/1979, These two players were named co-MVP's of the NL | Keith Hernandez & Dave Parker
+On 4/8/1974, this player broke the all time home run record hitting number 715 | Hank Aaron
+On 4/27/1983, this player broke the all time strike out record with 3,509 | Nolan Ryan
 In 1923, this player recorded the most WAR in a single season with 14.1 | Babe Ruth
+In 2007, this player broke the record for most AB in a single season with 716 | Jimmy Rollins
+In 1930, this player recorded the most RBI in a single season with 191 | Hack Wilson
 
