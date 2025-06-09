@@ -2,38 +2,83 @@
 
 import random
 import time
+from Questions import *
 
-def load_questions(filename="questions.txt"):
-    """Load questions and answers from a file into a list of tuples."""
-    questions = []
-    with open(filename, "r") as file:
-        for line in file:
-            if "|" in line:
-                try: 
-                    (question, answer) = line.strip().split(" | ", 1)
-                except: 
-                    pass
+# def load_questions(filename="questions.txt"):
+#     """Load questions and answers from a file into a list of tuples."""
+#     questions = []
+#     with open(filename, "r") as file:
+#         for line in file:
+#             if "|" in line:
+#                 try: 
+#                     (question, answer) = line.strip().split(" | ", 1)
+#                 except: 
+#                     pass
                 
-                questions.append((question, answer))
-    return questions
+#                 questions.append((question, answer))
+#     return questions
 
-def get_random_question(questions):
+def get_random_Red_question():
     """Return a random question and answer tuple from the list of questions."""
-    return random.choice(questions)
+    return random.choice(Red_questions)
 
+def get_random_Blue_question():
+    """Return a random question and answer tuple from the list of questions."""
+    return random.choice(Blue_questions)
+
+def get_random_Green_question():
+    """Return a random question and answer tuple from the list of questions."""
+    return random.choice(Green_questions)
+
+def get_random_Yellow_question():
+    """Return a random question and answer tuple from the list of questions."""
+    return random.choice(Yellow_questions)
 # Load questions from file
-questions = load_questions()
+# questions = load_questions()
 
-# Get a random question and answer
-question, answer = get_random_question(questions)
-print("Question:", question)
+# # Get a random question and answer
+# question, answer = get_random_question(questions)
+# print("Question:", question)
 
-# Wait for 10 seconds before showing the answer
-time.sleep(10)
-print("Answer:", answer)
+# # Wait for 10 seconds before showing the answer
+# time.sleep(10)
+# print("Answer:", answer)
+
+def get_structured_question(question):
+    questionsplit = question.split('|')
+    return {
+        "question": questionsplit[0],
+        "answer" : questionsplit[1],
+    }
+
+# def turn(color): 
+#     question = get_random_question(questions[color])
+#     StructuredQuestion = get_structured_question(question)
+#     print(StructuredQuestion['question'])
+#     time.sleep(10)
+#     print(StructuredQuestion['answer'])
+
+
+def turn (color):
+    if color == 'red':
+       structuredquestion = get_structured_question(get_random_Red_question())
+    if color == 'blue':
+       structuredquestion = get_structured_question(get_random_Blue_question())
+    if color == 'green':
+       structuredquestion = get_structured_question(get_random_Green_question())
+    if color == 'yellow':
+       structuredquestion = get_structured_question(get_random_Yellow_question())
+    print(structuredquestion['question'])
+    time.sleep(10)
+    print(structuredquestion['answer'])
+
+for i in range(1):
+    user = input('Color Input: \n')
+    turn(user)
+    time.sleep(1)
 
 '''
-Code for adding the button to the above 
+Code for adding the button tor the above 
 
 import RPi.GPIO as GPIO
 import random

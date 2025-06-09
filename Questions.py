@@ -1,0 +1,164 @@
+Red_questions = [
+'(2001-2022) ROY, 3x MVP, 703 HR, 3,384 H, 101.4 WAR | Albert Pujols'
+'(1990-2008) HOF, 2x MVP, 521 HR, .974 OPS, 73.8 WAR | Frank Thomas'
+'(1955-1966), HOF, 3x CYA, MVP, 165 W, 2,396 k, 2.76 ERA, 48.9 WAR | Sandy Koufax'
+'(1981-1997) HOF, MVP, 282 HR, 2,386 H, HR Derby Champ, 67.9 WAR| Ryne Sandberg'
+'(1997-2015) 5x All Star, 353 HR, 2,452 H, 9x GG, 50.7 WAR | Torii Hunter'
+'(1993-2009) 2x All Star, 473 HR, .929 OPS, 44.4 WAR | Carlos Delgado'
+'(1947-1964) HOF, 8x All Star, 407 HR, .919 OPS, 65.9 WAR | Duke Snider'
+'(1976-1993) 2x MVP, 7x All Star 398 HR, 46.5 WAR | Dale Murphy'
+'(1977-1995) ROY, 5x All Star, 244 HR, 2,369 H, 75.1 WAR | Lou Whitaker'
+'(1974-1990) MVP, 5x All Star, 2,182 H, 11x GG, 60.3 WAR,  | Keith Hernandez'
+'(1974-1989) HOF, MVP, 382 Hrs, 2,452 H, 47.7 WAR | Jim Rice'
+'(1995-2009) 2x All Star, 287 HR, .902 OPS, 51.1 WAR | Brian Giles'
+'(1963-1984) HOF, 2x MVP, 10x All Star, .392 OBP, 100  WAR | Joe Morgan'
+'(1989-2005) 2x All Star, 2,234 H, .295 Avg, 58.6 WAR | John Olerud'
+'(1988-2009) 9x All Star, 509 HR, 2,689 H, 60.5 WAR | Gary Sheffield'
+'(1996-2011) HOF 9x All Star, MVP, .318 Avg, 449 HR, 59.6 WAR | Vlad Guerrero Sr.'
+'(1989-2005) HOF 5x All Star, MVP, .313 Avg, .956 OPS, 72.7 WAR | Larry Walker'
+'(1925-1945) HOF 9x All Star, 3x MVP, 534 HR, 1.038 OPS, 92.2 WAR | Jimmie Foxx'
+'(1962-1982) HOF 7x All Star, MVP, 475 HR, .889 OPS, 57.6 WAR | Willie Stargell'
+'(1983-1999) ROY, 8x All Star, 335 HR, HR Derby Champ, 42.1 WAR | Darryl Strawberry'
+'(1969-1986) 6x All Star, CYA, MVP, 209 W, 2,175 K, 44.9 WAR | Vida Blue'
+'(1999-2013) 6x All Star, 366 HR, .943 OPS, 51.9 WAR | Lance Berkman'
+'(1998-2017) ROY, 9x All Star, 2,725 H, 435 HR, 701.1 WAR | Carlos Beltran'
+'(1985-2001) ROY, MVP, 462 HR, .867 OPS, 42.5 WAR | Jose Canseco'
+'(1979-1993, 1998) 7x All Star, 176 W, 2,895 IP, 56.5 WAR | Dave Stieb'
+'(1974-1990) ROY, MVP, 9x All Star, 306 HR, 50.2 WAR | Fred Lynn'
+'(1959-1980) HOF, ROY, MVP, 521 HR, .889 OPS 64.4 WAR | Willie McCovey'
+'(1926-1947) HOF, 11x All Star, 511 MVP, 2,876 H, 110.9 WAR | Mel Ott'
+'(1991-2011) HOF, 14x All Star, MVP, 14x GG, 2,844 H, 68.7 WAR | Ivan Rodriguez'
+'(1982-1999) HOF, 12x All Star, 3,010 H, .328 Avg, 91.4 WAR | Wade Boggs'
+'(1961-1983) HOF, MVP, 18x All Star, 3,419 H, 452 HR, 96.5 WAR | Carl Yastrzemski'
+'(1955-1972) HOF, MVP, 15x All Star, 3,000 H, .317 Avg, 94.9 WAR | Roberto Clemente'
+'(1982-1995) MVP, 6x All Star, 9x GG, 2,153 H, .307 Avg, 42.4 WAR | Don Mattingly'
+'(1976-1996) HOF, ROY, MVP, 8x All Star, 8x GG 438 HR, 64.9 WAR | Andre Dawson'
+'(1915-1937) HOF, 2x MVP, 2930 H, .358 Avg, 1.010 OPS, 127 WAR | Rogers Hornsby'
+'(1896-1916) HOF, 3,243 H, .338 Avg, 657 2B, 106.9 WAR | Nap Lajoie'
+'(1967-1985) HOF, ROY, MVP, 18x All Star, 3,053 H, .328 Avg, 81.2 WAR | Rod Carew'
+'(1923-1939) HOF, 2x MVP, 493 HR, .340 Avg, 1.080 OPS, 113.7 WAR | Lou Gehrig'
+'(1905-1928) HOF, MVP, 4,189 H, .366 Avg, .944 OPS, 151.4 WAR | Ty Cobb'
+'(1956-1976) HOF, ROY, 2x MVP, 2,943 H, 586 HR, 107.2 WAR | Frank Robinson'
+'(1965-1988) HOF, 4x CYA, 10x All Star, 329 W, 4,136 K, 84.1 WAR | Steve Carlton'
+'(1967-1986) HOF, ROY, 3x CYA, 12x All Star 311 W, 3,640 K, 106 WAR | Tom Seaver'
+'(1952-1968) HOF, 12x All Star, 512 HR, .885 OPS, 95.9 WAR | Eddie Mathews'
+'(1986-2005) 4x All Star, 569 HR, 3,020 H, .885 OPS, 71.9 WAR | Rafael Palmeiro'
+    ]
+
+Blue_questions = [
+        'This player hit the most Home Runs in the 1990\'s | Mark McGwire (405)',
+        'This player hit the most Home Runs in the 1980\'s | Mike Schmidt (313)',
+        'This player hit the most Home Runs in the 1970\'s | Willie Stargell (296)',
+        'This player hit the most Home Runs in the 1960\'s | Harmon Killebrew (393)',
+        'This player hit the most Home Runs in the 2000\'s | Alex Rodriguez (435)',
+        'This player hit the most Home Runs in the 2010\'s | Nelson Cruz (346)',
+        'This player had the highest batting average in the 2010\'s with at least 2000 PA | Miguel Cabrera (.317)',
+        'This player had the highest batting average in the 2000\'s with at least 2000 PA | Albert Pujols (.334)',
+        'This player had the highest batting average in the 1990\'s with at least 2000 PA | Tony Gwynn (.344)',
+        'This player had the highest batting average in the 1980\'s with at least 2000 PA | Wade Boggs (.352)',
+        'This player had the highest batting average in the 1970\'s with at least 2000 PA | Rod Carew (.343)',
+        'This player had the highest batting average in the 1960\'s with at least 2000 PA | Roberto Clemente (.328)',
+        'This player struck out the most batters in the 1960\'s | Bob Gibson',
+        'This player struck out the most batters in the 1970\'s | Nolan Ryan',
+        'This player struck out the most batters in the 1980\'s | Nolan Ryan',
+        'This player struck out the most batters in the 1990\'s | Randy Johnson',
+        'This player struck out the most batters in the 2000\'s | Randy Johnson',
+        'This player struck out the most batters in the 2010\'s | Max Scherzer',
+        'This player had the lowest Era in the 2010\'s with at least 100 games started | Clayton Kershaw (2.31)',
+        'This player had the lowest Era in the 2000\'s with at least 100 games started | Pedro Martinez (3.01)',
+        'This player had the lowest Era in the 1990\'s with at least 100 games started | Greg Maddux (2.54)',
+        'This player had the lowest Era in the 1980\'s with at least 100 games started | Orel Hershiser (2.65)',
+        'This player had the lowest Era in the 1970\'s with at least 100 games started | Jim Palmer (2.58)',
+        'This player had the lowest Era in the 1960\'s with at least 100 games started | Sandy Koufax (2.36)',
+        'This player had the most saves in the 2010\'s | Craig Kimbrel (346)',
+        'This player had the most saves in the 2000\'s | Mariano Rivera (397)',
+        'This player had the most saves in the 1990\'s | John Wetteland (295)',
+        'This player had the most saves in the 1980\'s | Jeff Reardon (264)',
+        'This player had the most saves in the 1979\'s | Rollie Fingers (204)',
+        'This player had the most saves in the 1960\'s | Hoyt Wilhelm (153)',
+        'This team won the most games in the 1960\'s | Orioles (911)',
+        'This team won the most games in the 1970\'s | Reds (953)',
+        'This team won the most games in the 1980\'s | Yankees (854)',
+        'This team won the most games in the 1990\'s | Braves (925)',
+        'This team won the most games in the 2000\'s | Yankees (965)',
+        'This team won the most games in the 2010\'s | Yankees (921)',
+        'This player is the all time leader in at bats | Pete Rose (14,053)',
+        'This player is the all time leader in Runs scored | Rickey Henderson (2,295)',
+        'This player is the all time leader in Triples | Sam Crawford (309)',
+        'This player is the all time leader in Doubles | Tris Speaker (792)',
+        'This player is the all time leader in Home runs | Barry Bonds (762)',
+        'This player is the all time leader in Hits | Pete Rose (4,256)',
+        'This player is the all time leader in walks | Barry Bonds (2,558)',
+        'This player is the all time leader in OPS | Babe Ruth (1.164)',
+        'This hitter is the all time leader in WAR | Babe Ruth (182.6)',
+        'This pitcher is the all time leader in WAR | Walter Johnson (166.9)',
+        'This player is the all time leader in MVP awards | Barry Bonds (7)',
+        'This player is the all time leader in Gold Glove awards for a pitcher | Greg Maddux (18)',
+        'This player is the all time leader in Gold Glove awards for a catcher | Ivan Rodriguez (13)',
+        'This player is the all time leader in Gold Glove awards for a first baseman | Keith Hernandez (11)',
+        'This player is the all time leader in Gold Glove awards for a second baseman | Roberto Alomar (10)',
+        'This player is the all time leader in Gold Glove awards for a third baseman | Brooks Robinson (16)',
+        'This player is the all time leader in Gold Glove awards for a shirt stop | Ozzie Smith (13)',
+        'This player is the all time leader in Gold Glove awards for a left feilder | Alex Gordon (8)',
+        'This player is the all time leader in Gold Glove awards for a center feilder | Willie Mays (11)',
+        'This player is the all time leader in Gold Glove awards for a right feilder | Roberto Clemente (12)',
+        'This player is the all time leader in wins | Cy Young (511)',
+        'This player is the all time leader in ERA | Ed Walsh (1.82)',
+        'This player is the all time leader in strike outs | Nolan Ryan (5,714)',
+        'This player is the all time leader in saves | Mariano Rivera (652)',
+        'This player is the all time leader in innings pitched | Cy Young (7,356)',
+        'This player is the all time leader in Cy Young awards | Roger Clemens (7)',
+]
+
+Green_questions = [
+    '(2002-NYY) MVP-3, 209 H, 39 HR, 41 SB, 4.9 WAR | Alfonso Soriano'
+'(1986-HOU) CYA-1, 2.22 ERA, 18 W, 306 K, 8.4 WAR | Mike Scott'
+'(1998) CYA-3, 2.38 EAR, 18 W, 257 K, 8.6 WAR | Kevin Brown'
+'(1996-COL) MVP-3, 40 HR, .344 Avg, 1.047 OPS, 7.9 WAR | Ellis Burks'
+'(1985-STL) ROY-1, 170 H, 110 SB, .267 Avg, 2.4 WAR | Vince Coleman'
+'(1990-OAK) CYA-1, 2.95 ERA, 27 W, 127 K, 2.9 WAR | Bob Welch'
+'(2005-MIN) CYA-3, 2.87, 16 W, 238 K, 7.2 WAR | Johan Santana'
+'(1989-SFG) MVP-1, 47 HR, 125 RBI, 1.023 OPS, 6.9 WAR | Kevin Mitchell'
+'(1978) MVP-1, 30 HR, .334 Avg, .979 OPS, 7 WAR | Dave Parker'
+'(2018-NYM) CYA-1, 1.70 ERA, 10 W, 269 K, 9.5 WAR | Jacob deGrom'
+'(2007-DET) MVP-2, 216 H, .363 Avg, 1.029 OPS, 7.3 WAR | Magglio Ordonez'
+'(1995) MVP-2, 50 HR, .317 Avg, 1.091 OPS, 7.0 WAR | Albert Belle'
+'(1945-DET) MVP-1, 1.81 ERA, 25 W, 212 K, 11.3 WAR | Hal Newhouser'
+'(1956-NYY) MVP-1, 52 HR, 130 RBI, .353 Avg, Triple Crown, 11.2 WAR | Mickey Mantle'
+'(1987-DET) MVP-2, 28 HR, .343 Avg, .953 OPS, 8.2 WAR | Alan Trammell'
+'(1984-KCR) MVP-3, 2.64 ERA, 44 SV, 3.3 WAR | Dan Quisenberry'
+'(2015-LAD) CYA-2, 1.66 ERA, 19 W, 200 K, 8.9 WAR | Zack Greinke'
+'(2005-CHC) MVP-3, 46 HR, .335 Avg, 1.080 OPS, 7.7 WAR | Derek Lee'
+'(2004-LAD) MVP-2, 48 HR, .334 Avg, 1.017 OPS, 9.6 WAR | Adrian Beltre'
+'(2003-CHC) CYA-3, 2.43 ERA, 18 W, 245 K, 7.4 WAR | Mark Prior'
+'(2000-COL) MVP-5, 42 HR, .372 Avg, 1.162 OPS, 8.9 WA| Todd Helton'
+'(2000-BOS) CYA-1, 1.74 ERA, 18 W, 284 K, 11.7 WAR | Pedro Martinez'
+'(1987-OAK) ROY-1, 49 HR, 118 RBI, .987 OPS, 5.1 WAR | Mark McGwire'
+'(1967-CHC) MVP-6, 31 HR, .300 Avg, .906 OPS, 9.8 WAR | Ron Santo'
+'(2016-BOS) MVP-2, 31 HR, 214 H, .318 Avg, 9.5 WAR | Mookie Betts'
+'(1997-HOU) MVP-4, 22 HR, 146 R, .309 Avg, .916 OPS, 9.4 WAR | Craig Biggio'
+'(1996-SEA) MVP-4, 49 HR, 140 RBI, .303 Avg, 1.020 OPS, 9.7 WAR | Ken Griffey Jr'
+'(1969-OAK) MVP-5, 47 HR, 118 RBI, 1.018 OPS, 9.2 WAR | Reggie Jackson'
+'(2007-PHI) MVP-1, 30 HR, 41 SB, 20 3B, 212 H, 6.1 WAR | Jimmy Rollins'
+'(1970-CIN) MVP-3, 40 HR, .317 Avg, .990 OPS, 7.2 WAR | Tony Perez'
+'(1968-STL) MVP-1, 1.12 ERA, 22 W, 268 K, 11.2 WAR | Bob Gibson'
+'(1908) 1.43 ERA, 37 W, 259 K, 11.8 WAR | Christy Mathewson'
+'(1993-TEX) MVP-4, 46 HR, .310 Avg, 1.000 OPS, 6.5 WAR | Juan Gonzalez'
+]
+
+Yellow_questions = [
+    'On 11/19/1979, this player became the first person to sign a $1M contract | Nolan Ryan'
+'On 8/29/1977, this player broke Ty Cobbs stolen base record | Lou Brock'
+'On 9/23/1988, this player recorded the first 40/40 season in MLB history | Jose Cansceco'
+'On 9/20/2013, this player broke Lou Gehrigs grand slam | Alex Rodriguez'
+'On 8/22/2007, this team broke the record for most runs scored in a game with 30 | Texas Rangers'
+'On 8/15/2012, this player became the third pitcher to throw a perfect game of the season | Felix Hernandez'
+'On 9/13/2008, this pitcher broke Bobby Thigpens record for most saves in a season | Fransisco Rodriguez'
+'On 9/19/2008, this hitter broke the single season strike out record | Mark Reynolds'
+'On 11/22/1979, These two players were named co-MVPs of the NL | Keith Hernandez & Dave Parker'
+'On 4/8/1974, this player broke the all time home run record hitting number 715 | Hank Aaron'
+'On 4/27/1983, this player broke the all time strike out record with 3,509 | Nolan Ryan'
+'In 1923, this player recorded the most WAR in a single season with 14.1 | Babe Ruth'
+'In 2007, this player broke the record for most AB in a single season with 716 | Jimmy Rollins'
+'In 1930, this player recorded the most RBI in a single season with 191 | Hack Wilson'
+]

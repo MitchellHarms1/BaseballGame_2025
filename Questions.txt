@@ -6,7 +6,7 @@ Player Career Resume
 '''
 (2001-2022) ROY, 3x MVP, 703 HR, 3,384 H, 101.4 WAR | Albert Pujols
 (1990-2008) HOF, 2x MVP, 521 HR, .974 OPS, 73.8 WAR | Frank Thomas
-(1955-1966, HOF, 3x CYA, MVP, 165 W, 2,396 k, 2.76 ERA, 48.9 WAR | Sandy Koufax
+(1955-1966), HOF, 3x CYA, MVP, 165 W, 2,396 k, 2.76 ERA, 48.9 WAR | Sandy Koufax
 (1981-1997) HOF, MVP, 282 HR, 2,386 H, HR Derby Champ, 67.9 WAR| Ryne Sandberg
 (1997-2015) 5x All Star, 353 HR, 2,452 H, 9x GG, 50.7 WAR | Torii Hunter
 (1993-2009) 2x All Star, 473 HR, .929 OPS, 44.4 WAR | Carlos Delgado
